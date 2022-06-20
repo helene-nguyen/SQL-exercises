@@ -31,6 +31,10 @@ Création de la base de données et import de ces données pour l'exercice
 
 ![creation](./images/orangeraie4.jpg)
 
-## Liste des plantations qui produisent de la mandarine
+## Les familles ayant une jutosité moyenne supérieure à la moyenne (2.5, vu qu'on les note de 0 à 5)
 
 ![creation](./images/orangeraie5.jpg)
+
+## Liste des plantations qui produisent de la mandarine
+
+![creation](./images/orangeraie6.jpg)
