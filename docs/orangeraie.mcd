@@ -1,0 +1,10 @@
+FAMILY: family name
+DF1, 1N FAMILY, 11 SPECIES
+SPECIES: scientific name, common name
+DF2, 1N SPECIES, 11 VARIETY
+VARIETY: cultivar name, bitterness, juiciness
+
+FIELD: field name, location
+DF3, 1N FIELD, _11 ROW
+ROW: number
+IS PLANTED IN, 11 ROW, 1N VARIETY
